@@ -216,4 +216,31 @@ body {
   letter-spacing: 0.32px;
 }
 
-.footer
+.footer {
+  background: #2e2f42;
+}
+
+.logo-footer {
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  justify-content: center;
+}
+
+.logo-footer-span {
+  color: #f4f4fd;
+}
+
+.footer-text-descr {
+  color: #f4f4fd;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
