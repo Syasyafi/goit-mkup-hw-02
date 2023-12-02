@@ -36,7 +36,6 @@ body {
 .menu-list {
   display: inline-flex;
   align-self: flex-start;
-  gap: 40px;
 }
 .manu-nav {
   color: #2e2f42;
@@ -87,7 +86,6 @@ body {
   display: inline-flex;
   padding: 16px 32px;
   align-items: flex-start;
-  gap: 10px;
   background: #4d5ae5;
   cursor: pointer;
 }
@@ -104,7 +102,6 @@ body {
 .adv-list {
   display: flex;
   align-items: flex-start;
-  gap: 8px;
 }
 .title-name {
   color: #2e2f42;
