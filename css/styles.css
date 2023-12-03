@@ -34,6 +34,7 @@ body {
 .menu-list {
   align-self: flex-start;
 }
+
 .manu-nav {
   color: #2e2f42;
   font-size: 16px;
@@ -89,7 +90,6 @@ body {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.64px;
-  padding: 16px 32px;
   background: #4d5ae5;
   cursor: pointer;
 }
