@@ -31,6 +31,9 @@ body {
   text-transform: uppercase;
 }
 
+.menu-list {
+  align-self: flex-start;
+}
 .manu-nav {
   color: #2e2f42;
   font-size: 16px;
