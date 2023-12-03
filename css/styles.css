@@ -74,7 +74,6 @@ body {
   line-height: 1.07;
   letter-spacing: 1.12px;
   background: #2e2f42;
-  flex-shrink: 0;
 }
 
 .section-button {
@@ -129,7 +128,6 @@ body {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.72px;
-  text-transform: capitalize;
 }
 
 .team-item {
@@ -171,7 +169,6 @@ body {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.72px;
-  text-transform: capitalize;
 }
 
 .portfolio-list {
@@ -210,8 +207,6 @@ body {
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
-  text-transform: uppercase;
-  justify-content: center;
 }
 
 .logo-footer-span {
