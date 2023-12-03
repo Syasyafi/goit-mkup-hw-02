@@ -54,6 +54,15 @@ body {
   font-style: normal;
 }
 
+.contacts {
+  color: #434455;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
 .contacts:hover,
 .contacts:focus {
   color: #404bbf;
@@ -90,8 +99,8 @@ body {
   cursor: pointer;
 }
 
-.button:hover,
-.button:focus {
+.section-button:hover,
+.section-button:focus {
   background-color: #404bbf;
 }
 
