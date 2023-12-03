@@ -31,9 +31,6 @@ body {
   text-transform: uppercase;
 }
 
-.menu-list {
-  align-self: flex-start;
-}
 .manu-nav {
   color: #2e2f42;
   font-size: 16px;
@@ -179,9 +176,7 @@ body {
 }
 
 .portfolio-list {
-  display: flex;
   padding-bottom: 0px;
-  align-items: flex-start;
   border: #e7e9fc;
   background: #fff;
 }
