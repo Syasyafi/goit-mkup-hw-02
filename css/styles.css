@@ -32,7 +32,6 @@ body {
 }
 
 .menu-list {
-  display: inline-flex;
   align-self: flex-start;
 }
 .manu-nav {
@@ -90,9 +89,7 @@ body {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.64px;
-  display: inline-flex;
   padding: 16px 32px;
-  align-items: flex-start;
   background: #4d5ae5;
   cursor: pointer;
 }
@@ -106,10 +103,6 @@ body {
   background-color: #fff;
 }
 
-.adv-list {
-  display: flex;
-  align-items: flex-start;
-}
 .title-name {
   color: #2e2f42;
   font-size: 20px;
@@ -147,7 +140,6 @@ body {
   background: #ffffff;
   padding-bottom: 0px;
   justify-content: center;
-  align-items: center;
 }
 
 .team-item-name {
